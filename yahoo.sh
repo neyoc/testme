@@ -1,4 +1,8 @@
-<hl> this is the first code comit sir here pyhtno</hl>
+#!/bin/bash
+for i in $(seq 1 2 100)
+do
+   echo "skip by 2 value $i"
+done
 
 
 
